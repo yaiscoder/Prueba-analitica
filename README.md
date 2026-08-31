@@ -19,18 +19,6 @@ Partiendo de un dataset de ventas "sucio" (`dataset_ventas_pasteleria_sucio.csv`
 5. ¿Qué categoría presenta un mayor porcentaje de descuento?
 
 
-##  Estructura del proyecto
-
-```
-├── prueba.py                          # Script de limpieza (ETL) y carga a PostgreSQL
-├── Dashboard.pbix                     # Dashboard de Power BI
-├── csv/
-│   ├── dataset_ventas_pasteleria_sucio.csv   # Dataset original (entrada)
-│   └── dataset_limpio.csv                     # Dataset limpio (salida del ETL)
-├── .env                                # Variables de conexión a la base de datos (no incluido)
-└── README.md
-```
-
 ##  Configuración
 
 Crea un archivo `.env` en la raíz del proyecto con las credenciales de la base de datos PostgreSQL:
