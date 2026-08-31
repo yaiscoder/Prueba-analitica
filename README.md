@@ -59,7 +59,7 @@ db_name=pasteleria
 
 ## Hallazgos clave
 
-1. Ganancia / Ingreso acumulado en 2025
+1. Ingreso acumulado en 2025
 El Ingreso Total del año 2025 alcanzó los $13 mil, superando holgadamente el objetivo proyectado de $5.600 en un +132,14%. El rendimiento en Utilidad Total muestra su pico más elevado en meses como Diciembre, Agosto y Julio, decreciendo progresivamente hacia el cierre de los demás periodos.
 
 2. Canal de venta con mayor proporción de ingresos
